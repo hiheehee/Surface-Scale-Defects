@@ -1,4 +1,4 @@
-# Surface-Scale-Defects
+# Surface_Scale_Defects
 Data Analysis Project
 -----------------------------
 # Overview
